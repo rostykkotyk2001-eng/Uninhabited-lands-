@@ -1,0 +1,10 @@
+{
+    "type": "material",
+    "name": "iron",
+    "description": "a common and versatile ore used in most technologies",
+    "hardness": 2,
+    "cost": 2.0,
+    "color": "6D6D6D",
+    "tier": "2"
+    
+}
